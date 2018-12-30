@@ -27,11 +27,11 @@ gems:
 # Links to include in menu navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: 主页
     url: /
-  - title: About
+  - title: 简介
     url: /about/
-  - title: Contact
+  - title: 联系
     url: /contact/
 
 # Exclude my node related stuff

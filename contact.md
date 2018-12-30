@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: 联系
 description: Let's talk.
 permalink: /contact/
 ---
@@ -14,7 +14,7 @@ permalink: /contact/
 
 <div class="container">
 
-  <h2>Talk to me</h2>
+  <h2>发送信息</h2>
 
   <div id="form" class="contact-form">
     <form accept-charset="UTF-8" method="POST" action="https://formspree.io/{{ site.email }}" v-on:submit.prevent="validateBeforeSubmit" ref="contact">
