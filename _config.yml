@@ -31,8 +31,6 @@ links:
     url: /
   - title: 简介
     url: /about/
-  - title: 联系
-    url: /contact/
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
