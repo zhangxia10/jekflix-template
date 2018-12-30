@@ -1,24 +1,19 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
+title: 张侠-徐州市中心医院
 email: youremail@xyz.com
-description: Some text about your blog.
-baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
-url: "https://www.rossener.com" # the base hostname & protocol for your site
+description: 欢迎来到我的博客.
+baseurl: "/zhangxia10.github.io" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
-user_description: Some text about you.
+username: Zhangxia10
+user_description: 徐州市中心医院.
 disqus_username: disqus_username
 
 # Social Media
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: zhangxia10
 
 # Build settings
 markdown: kramdown
